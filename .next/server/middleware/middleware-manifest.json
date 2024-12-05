@@ -1,0 +1,27 @@
+{
+  "sorted_middleware": [],
+  "middleware": {
+    "/": {
+      "files": [
+        "server/edge/chunks/ssr/_b46975._.js",
+        "server/edge/chunks/ssr/node_modules_@auth_core_979bf9._.js",
+        "server/edge/chunks/ssr/node_modules_jose_dist_browser_a7dca6._.js",
+        "server/edge/chunks/ssr/node_modules_react_9d5f17._.js",
+        "server/edge/chunks/ssr/node_modules_b333d0._.js",
+        "server/edge/chunks/ssr/_3c8259._.js",
+        "server/edge/chunks/ssr/edge-wrapper_579307.js",
+        "server/edge/chunks/ssr/edge-wrapper_ea727d.js"
+      ],
+      "name": "middleware",
+      "page": "/",
+      "matchers": [
+        {
+          "locale": false,
+          "originalSource": "/dashboard/:path*"
+        }
+      ]
+    }
+  },
+  "instrumentation": null,
+  "functions": {}
+}
