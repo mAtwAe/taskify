@@ -1,3 +1,6 @@
 node_modules/
 dist/
-
+.next/
+app/.DS_Store
+components/.DS_Store
+.DS_Store
