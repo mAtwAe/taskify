@@ -43,4 +43,4 @@ jobs:
           docker pull ${{ secrets.DOCKER_USERNAME }}/my-app:latest
       - name: Deploy Container
         run: |
-          docker-compose up -d taskify
+          docker compose up -d taskify
